@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{6}
+\begin{thebibliography}{4}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -53,17 +53,6 @@
 \showDOI{\tempurl}
 
 
-\bibitem[\protect\citeauthoryear{Johannes~Kirschnick}{Johannes~Kirschnick}{2016}]%
-        {Jedi}
-\bibfield{author}{\bibinfo{person}{Volker~Markl Johannes~Kirschnick,
-  Holmer~Hemsen}.} \bibinfo{year}{2016}\natexlab{}.
-\newblock \showarticletitle{JEDI: Joint Entity and Relation Detection using
-  Type Inference}.
-\newblock \bibinfo{journal}{\emph{Proceedings of ACL-2016 System
-  Demonstrations}} (\bibinfo{year}{2016}).
-\newblock
-
-
 \bibitem[\protect\citeauthoryear{Kim}{Kim}{2021}]%
         {FeedTree}
 \bibfield{author}{\bibinfo{person}{et~al. Kim, Seohyun}.}
@@ -71,16 +60,6 @@
 \newblock \showarticletitle{Code prediction by feeding trees to transformers}.
 \newblock \bibinfo{journal}{\emph{IEEE/ACM 43rd International Conference on
   Software Engineering (ICSE)}} (\bibinfo{year}{2021}).
-\newblock
-
-
-\bibitem[\protect\citeauthoryear{Marc’Aurelio~Ranzato}{Marc’Aurelio~Ranzato}{2016}]%
-        {seqRNN}
-\bibfield{author}{\bibinfo{person}{Michael Auli Wojciech~Zaremba
-  Marc’Aurelio~Ranzato, Sumit~Chopra}.} \bibinfo{year}{2016}\natexlab{}.
-\newblock \showarticletitle{Sequence Level Training with Recurrent Neural
-  Networks}.
-\newblock \bibinfo{journal}{\emph{ICLR}} (\bibinfo{year}{2016}).
 \newblock
 
 

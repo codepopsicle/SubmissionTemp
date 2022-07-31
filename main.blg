@@ -7,74 +7,54 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: references.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Too many commas in name 1 of "Marc’Aurelio Ranzato, Sumit Chopra,Michael Auli,Wojciech Zaremba" for entry seqRNN
-while executing---line 2802 of file ACM-Reference-Format.bst
-Too many commas in name 1 of "Marc’Aurelio Ranzato, Sumit Chopra,Michael Auli,Wojciech Zaremba" for entry seqRNN
-while executing---line 2802 of file ACM-Reference-Format.bst
-Too many commas in name 1 of "Marc’Aurelio Ranzato, Sumit Chopra,Michael Auli,Wojciech Zaremba" for entry seqRNN
-while executing---line 2802 of file ACM-Reference-Format.bst
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Too many commas in name 1 of "Marc’Aurelio Ranzato, Sumit Chopra,Michael Auli,Wojciech Zaremba" for entry seqRNN
-while executing---line 2863 of file ACM-Reference-Format.bst
-Too many commas in name 1 of "Marc’Aurelio Ranzato, Sumit Chopra,Michael Auli,Wojciech Zaremba" for entry seqRNN
-while executing---line 2863 of file ACM-Reference-Format.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty publisher in AST
 Warning--empty address in AST
-Warning--no number and no volume in Jedi
-Warning--page numbers missing in both pages and numpages fields in Jedi
 Warning--no number and no volume in FeedTree
 Warning--page numbers missing in both pages and numpages fields in FeedTree
-Too many commas in name 1 of "Marc’Aurelio Ranzato, Sumit Chopra,Michael Auli,Wojciech Zaremba" for entry seqRNN
-while executing---line 2961 of file ACM-Reference-Format.bst
-Too many commas in name 1 of "Marc’Aurelio Ranzato, Sumit Chopra,Michael Auli,Wojciech Zaremba" for entry seqRNN
-while executing---line 2961 of file ACM-Reference-Format.bst
-Too many commas in name 1 of "Marc’Aurelio Ranzato, Sumit Chopra,Michael Auli,Wojciech Zaremba" for entry seqRNN
-while executing---line 2961 of file ACM-Reference-Format.bst
-Warning--no number and no volume in seqRNN
-Warning--page numbers missing in both pages and numpages fields in seqRNN
 Warning--page numbers missing in both pages and numpages fields in vaswani2017attention
-You've used 6 entries,
+You've used 4 entries,
             5959 wiz_defined-function locations,
-            1365 strings with 15850 characters,
-and the built_in function-call counts, 7096 in all, are:
-= -- 980
-> -- 304
+            1353 strings with 15511 characters,
+and the built_in function-call counts, 5190 in all, are:
+= -- 666
+> -- 264
 < -- 0
-+ -- 98
-- -- 104
-* -- 513
-:= -- 737
-add.period$ -- 30
-call.type$ -- 6
-change.case$ -- 46
-chr.to.int$ -- 6
-cite$ -- 15
-duplicate$ -- 558
-empty$ -- 401
-format.name$ -- 116
-if$ -- 1771
++ -- 88
+- -- 88
+* -- 411
+:= -- 563
+add.period$ -- 20
+call.type$ -- 4
+change.case$ -- 36
+chr.to.int$ -- 4
+cite$ -- 9
+duplicate$ -- 388
+empty$ -- 277
+format.name$ -- 100
+if$ -- 1255
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 25
-newline$ -- 90
-num.names$ -- 48
-pop$ -- 239
+missing$ -- 17
+newline$ -- 74
+num.names$ -- 32
+pop$ -- 169
 preamble$ -- 1
-purify$ -- 100
+purify$ -- 72
 quote$ -- 0
-skip$ -- 167
+skip$ -- 121
 stack$ -- 0
-substring$ -- 400
-swap$ -- 41
+substring$ -- 284
+swap$ -- 31
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 110
-warning$ -- 9
-while$ -- 39
+type$ -- 78
+warning$ -- 5
+while$ -- 23
 width$ -- 0
-write$ -- 139
-(There were 8 error messages)
+write$ -- 107
+(There were 5 warnings)
