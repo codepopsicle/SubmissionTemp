@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.3)  31 JUL 2022 17:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.3)  3 AUG 2022 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,7 +920,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 92.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 99.
+(Font)              scaled to size 9.0pt on input line 97.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -932,93 +932,64 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 106.
+
+Overfull \hbox (5.45064pt too wide) in paragraph at lines 107--110
+\T1/LinuxLibertineT-TLF/b/n/9 (-20) run-time er-rors\T1/LinuxLibertineT-TLF/m/n
+/9 (-20) : When a syn-tac-ti-cally cor-rect pro-gram (which
+ []
+
+<figs/token_unresolved.png, id=28, 1299.85625pt x 595.22375pt>
+File: figs/token_unresolved.png Graphic file (type png)
+<use figs/token_unresolved.png>
+Package pdftex.def Info: figs/token_unresolved.png  used on input line 113.
+(pdftex.def)             Requested size: 240.94499pt x 110.33264pt.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 105.
+(Font)              scaled to size 7.3pt on input line 122.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 105.
+(Font)              scaled to size 5.5pt on input line 122.
 
+Underfull \vbox (badness 1142) has occurred while \output is active []
 
-LaTeX Warning: File `AI4CASubmissions/figs/rootpath.png' not found on input lin
-e 125.
+ [1.1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-
-! Package pdftex.def Error: File `AI4CASubmissions/figs/rootpath.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.125 ...idth]{AI4CASubmissions/figs/rootpath.png}
-                                                  
-? 
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 12
-5.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/inconsolata/t1zi4.fd
-File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
-)
-LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.0pt on input line 125.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `zi4' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
+ <./figs/token_unresolved.png>]
+<figs/rootpath.png, id=51, 424.58624pt x 201.75375pt>
+File: figs/rootpath.png Graphic file (type png)
+<use figs/rootpath.png>
+Package pdftex.def Info: figs/rootpath.png  used on input line 141.
+(pdftex.def)             Requested size: 240.94499pt x 114.49287pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[1.1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-]
-
-LaTeX Warning: File `AI4CASubmissions/figs/dfs.png' not found on input line 134
-.
-
-
-! Package pdftex.def Error: File `AI4CASubmissions/figs/dfs.png' not found: usi
-ng draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.134 ...linewidth]{AI4CASubmissions/figs/dfs.png}
-                                                  
-? 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: File `AI4CASubmissions/figs/transformer.png' not found on input 
-line 151.
-
-
-! Package pdftex.def Error: File `AI4CASubmissions/figs/transformer.png' not fo
-und: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...h]{AI4CASubmissions/figs/transformer.png}
-                                                  
-? 
+<figs/dfs.png, id=52, 440.64626pt x 393.47pt>
+File: figs/dfs.png Graphic file (type png)
+<use figs/dfs.png>
+Package pdftex.def Info: figs/dfs.png  used on input line 150.
+(pdftex.def)             Requested size: 240.94499pt x 215.14835pt.
+<figs/transformer.png, id=57, 439.6425pt x 305.14pt>
+File: figs/transformer.png Graphic file (type png)
+<use figs/transformer.png>
+Package pdftex.def Info: figs/transformer.png  used on input line 163.
+(pdftex.def)             Requested size: 240.94499pt x 167.22687pt.
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
-n input line 158.
+n input line 167.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 158.
+(Font)              scaled to size 9.0pt on input line 167.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 158.
- [2.2] (./main.bbl)
+(Font)              scaled to size 7.0pt on input line 167.
+ [2.2 <./figs/rootpath.png> <./figs/dfs.png>] (./main.bbl)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 )
@@ -1035,34 +1006,32 @@ e.
 
 Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
-[3.3] (./main.aux)
+[3.3 <./figs/transformer.png>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7678BEE63D3169C8E37E26AC9C648A15;1526.
+(rerunfilecheck)             Checksum: EC042399F42A8D65C5C579A8481672B0;901.
  ) 
 Here is how much of TeX's memory you used:
- 19427 strings out of 478994
- 298405 string characters out of 5858185
- 677075 words of memory out of 5000000
- 36120 multiletter control sequences out of 15000+600000
- 498502 words of font info for 199 fonts, out of 8000000 for 9000
+ 19399 strings out of 478994
+ 297668 string characters out of 5858185
+ 676025 words of memory out of 5000000
+ 36074 multiletter control sequences out of 15000+600000
+ 506931 words of font info for 223 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 96i,11n,131p,845b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{
-/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/
-usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/u
-sr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/us
-r/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}</usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.
-pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinu
-mT.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibe
-rtineT.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/Lin
-LibertineTB.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertin
-e/LinLibertineTI.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/new
-tx/txsys.pfb>
-Output written on main.pdf (3 pages, 337956 bytes).
+ 96i,11n,131p,1048b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc
+}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{
+/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}</
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb
+></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT
+.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibert
+ineTB.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinL
+ibertineTI.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/newtx/txs
+ys.pfb>
+Output written on main.pdf (3 pages, 743841 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
+ 121 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
  26 named destinations out of 1000 (max. 500000)
- 51809 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 55373 words of extra memory for PDF output out of 61914 (max. 10000000)
 
